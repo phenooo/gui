@@ -1,0 +1,2 @@
+public class RailwayStation {
+}
